@@ -1,9 +1,9 @@
 *Repositorio para el curso de programacion PHP*
 
 ** para obtener todos los paises **
-´´´
+```
 /api/paises
-´´´
+```
 
 ** para obtener todos los paises por idioma **
 ```
